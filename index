@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head></head>
+  <body class="container">
+    <header>
+      <div class="logo"></div>
+      <div class="menu">
+        <nav class="menu-list">
+          <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Project</a><li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    
+    <section class="hero-section">
+      <!--Content Hero Section here-->
+    </section>
+    
+    <section class="about-section">
+      <!--Content About Section here-->
+    </section>
+    
+    <section class="project-section">
+      <!--Content Project Section here-->
+    </section>
+    
+    <section class="contact-section">
+      <!--Content Contact Section here-->
+    </section>
+    
+    <footer>
+      <p>Copyright 2023</p>
+    </footer>
+  </body>
+</html>
